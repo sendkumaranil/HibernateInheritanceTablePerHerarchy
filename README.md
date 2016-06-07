@@ -44,5 +44,6 @@ CREATE TABLE `employee_details` (
 Logger:Query executed behind the process:
 ------------------------------------------
 Hibernate: insert into employee_details (name, bonus, salary, disc_type) values (?, ?, ?, 'Regular')
+
 Hibernate: insert into employee_details (name, contract_duration, pay_per_hour, disc_type) values (?, ?, ?, 'Contract')
 
