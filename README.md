@@ -1,0 +1,2 @@
+# HibernateInheritanceTablePerHerarchy
+Using Annotation
