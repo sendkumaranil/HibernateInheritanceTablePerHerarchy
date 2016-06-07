@@ -1,0 +1,6 @@
+select * from employee_details
+
+id, disc_type, name, salary, bonus, pay_per_hour, contract_duration
+--------------------------------------------------------------------
+'10', 'Regular', 'Anil Kumar', '45000', '25000', NULL, NULL
+'11', 'Contract', 'Vivek Tygi', NULL, NULL, '1500', '6 months'
